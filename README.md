@@ -1,10 +1,6 @@
-
 SDG Momentum – Empowering Change with AI
-
 SDG Momentum is a real-time AI-powered platform designed to monitor, analyze, and promote progress toward the United Nations' Sustainable Development Goals (SDGs). This project leverages machine learning, data visualization, and NLP to provide actionable insights, track development trends, and empower stakeholders across governments, NGOs, and individuals to accelerate SDG adoption and impact.
-
  Table of Contents
-
 About the Project
 
 Key Features
