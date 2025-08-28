@@ -45,7 +45,7 @@ Live data streams update SDG performance indicators in real time across countrie
  AI-Powered Insights & Predictions
 Predictive models identify future trends and recommend potential actions or interventions.
 
-🗣 Natural Language Queries
+ Natural Language Queries
 Use conversational input (e.g., “What’s the progress on SDG 4 in South Asia?”) to receive intelligent responses with visual insights.
 
 Interactive Dashboards
